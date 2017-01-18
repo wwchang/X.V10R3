@@ -1,0 +1,51 @@
+_StoreBitmap _FreeBitmap _CharBitmap _StorePixmap _MakePixmap _FreePixmap 
+
+_constpix0 _constpix1 
+
+_PixmapSave _PixmapGet 
+
+_CopyArea 
+_StoreCursor _FreeCursor _LoadCursor _InitMouse _SetCursorPosition _SetMouseCharacteristics 
+
+_PixFill 
+_StippleFill 
+
+_GetFont 
+_FreeFont 
+_ddxfontdir 
+_ddxfontsuffix 
+
+_FBMap _SSMap 
+_VSAddr _VSEvent _VSqMax
+
+ _pbm _vbm _ltable _vsdev 
+
+_OpenDisplay _InitDisplay _DisplayDead _AllocateSpace _PixmapPut _PixmapBitsPut _BitmapBitsPut _TileFill _SoundBell _SetKeyClick _SetAutoRepeat _SetVideo _QueryShape _SetLockLED _ResolveColor _StoreColors _DrawFilled _CopyText _TextWidth _CharWidth 
+
+_copyrmsk _code_buffer _copybmsk _mapping_black_and_white _starttab _endtab _PrintText _PrintTextMask _DrawCurve 
+
+_bresen _draw_2_map_notdst_black_spix _draw_horiz_notdst_black _draw_vert_notdst_black _bresen _draw_2_map_notdst_white_spix _draw_horiz_notdst_white _draw_vert_notdst_white _bresen _draw_2_map_white_black_spix _draw_horiz_white_black _draw_vert_white_black 
+
+_bresen _draw_2_src_mpix_line _p_2_map_clip_rv _p_2_map_noclip_rv _bresen _draw_2_src_cons_spix_line _bresen _draw_cons_pat_mpix_line _p_clip_id _p_clip_rv _p_noclip_id _p_noclip_rv _bresen _draw_cons_pat_spix_line _pat_horiz _pat_vert _bresen _draw_cons_solid_mpix_line _clip_id _clip_rv _noclip_id _noclip_rv _bresen 
+
+_draw_cons_solid_spix_line
+
+ _draw_cons_vert_spix_lines 
+
+_bresen_draw _bresen_oi _bresen_io _bresen_oo _bresen
+
+_notdst_black _bresen_oi_notdst_black _bresen_io_notdst_black _bresen_oo_notdst_black _bresen
+_notdst_white _bresen_oi_notdst_white _bresen_io_notdst_white 
+
+_bresen_oo_notdst_white _bresen_white_black _bresen_oi_white_black _bresen_io_white_black _bresen_oo
+
+_white_black 
+_patbres_draw _patbres_oi _patbres_io _patbres_oo _bbmcopycon 
+
+_bbmrevideo _bbmcopyht _bbmdrawvert _bbmprint _copyline _path_list_converter _copy_no_src_mapping _mask_rect _mask_rect_bytes _pitch _bpitch _fillhalf _linedata _filline _bresenham _sbuff _ssbuff _smbuff _htbuff _fontbuff 
+
+_mask _rmask _wmask _iwmask _mask0 _mask1 _mask2 _mask3 _mask4 _mask5 _mask6 _mask7 _mask8 _mask9 _mask10 _mask11 _mask12 _mask13 _mask14 _mask15 _masktab1 _masktab2  ddxbitpix
+
+
+
+
